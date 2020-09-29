@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475149308933",
+    "firebase_url": "https://vpn-48d67.firebaseio.com",
+    "project_id": "vpn-48d67",
+    "storage_bucket": "vpn-48d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475149308933:android:b379ef2b6ff9dc1359b86c",
+        "android_client_info": {
+          "package_name": "com.technoupdate.securevpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475149308933-o1ifpp1urh6169p3k59knqogl7f3kia7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sHpzvtNY8UhFuss80pTr9nfYMKNdfe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475149308933-o1ifpp1urh6169p3k59knqogl7f3kia7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
